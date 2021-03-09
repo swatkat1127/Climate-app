@@ -45,7 +45,7 @@ class _LoadingScreenState extends State<LoadingScreen> {
       body: Center(
         child: SpinKitCircle(
           color: Colors.white,
-          size: 100.0,
+          size: 110.0,
 
         ),
       ),
